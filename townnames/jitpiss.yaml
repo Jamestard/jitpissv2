@@ -1,7 +1,39 @@
 available: true
 id: 0
 mainset:
-- names: []
+- names:
+  - name: Jit
+    probability: 1
+  - name: Weed
+    probability: 1
+  - name: Blunt
+    probability: 1
+  - name: Dark and
+    probability: 1
+  - name: Narkan
+    probability: 1
+  - name: 'Callme '
+    probability: 1
+- names:
+  - name: Piss
+    probability: 1
+  - name: Smoke
+    probability: 1
+  - name: Stormy
+    probability: 1
+  - name: Normy
+    probability: 1
+  - name: Merloe
+    probability: 1
+  - name: Snei
+    probability: 1
+  - name: 'Tard '
+    probability: 1
+- names:
+  - name: ' '
+    probability: 9
+  - name: Death Cult
+    probability: 1
 name: Jitpiss
 source: null
 subsets: []
